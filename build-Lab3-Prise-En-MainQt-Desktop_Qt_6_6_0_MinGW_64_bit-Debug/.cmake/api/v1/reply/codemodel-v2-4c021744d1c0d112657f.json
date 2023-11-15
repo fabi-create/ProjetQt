@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8c0f4e94cffefc2730e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab3-Prise-En-MainQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3-Prise-En-MainQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3-Prise-En-MainQt-Debug-ad9dae9064acdc497f43.json",
+					"name" : "Lab3-Prise-En-MainQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3-Prise-En-MainQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3-Prise-En-MainQt_autogen-Debug-6f21ce13de09a13dba33.json",
+					"name" : "Lab3-Prise-En-MainQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3-Prise-En-MainQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3-Prise-En-MainQt_autogen_timestamp_deps-Debug-84398b43d4d21643dee6.json",
+					"name" : "Lab3-Prise-En-MainQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/Documents/master  1 isi and ssi/POO JAVA/Mes-Projets-Qt/build-Lab3-Prise-En-MainQt-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/HP/Documents/master  1 isi and ssi/POO JAVA/Mes-Projets-Qt/Lab3-Prise-En-MainQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

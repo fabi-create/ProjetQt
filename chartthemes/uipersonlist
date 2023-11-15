@@ -1,0 +1,11 @@
+#ifndef UIPERSONLIST
+#define UIPERSONLIST
+
+
+class uipersonlist
+{
+public:
+    uipersonlist();
+};
+
+#endif // UIPERSONLIST

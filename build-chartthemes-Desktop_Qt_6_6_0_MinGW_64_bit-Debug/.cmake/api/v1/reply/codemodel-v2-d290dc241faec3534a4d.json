@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-67a75530b0a2e4e5daed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "chartthemes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "chartthemes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chartthemes-Debug-bd9e0269082324494f2d.json",
+					"name" : "chartthemes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chartthemes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chartthemes_autogen-Debug-61cf9989737aef9948fb.json",
+					"name" : "chartthemes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "chartthemes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-chartthemes_autogen_timestamp_deps-Debug-212f78110f30884878c9.json",
+					"name" : "chartthemes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/Documents/master  1 isi and ssi/POO JAVA/Mes-Projets-Qt/build-chartthemes-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/HP/Documents/master  1 isi and ssi/POO JAVA/Mes-Projets-Qt/chartthemes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
